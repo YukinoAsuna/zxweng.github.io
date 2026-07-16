@@ -1,4 +1,4 @@
-﻿# WowPage
+# WowPage
 
 WowPage is a clean, responsive academic homepage built with Jekyll and adapted from the Academic Pages theme. It is designed for students, researchers, and engineers who want a personal website for introducing their profile, publications, projects, experience, awards, talks, services, and CV.
 
