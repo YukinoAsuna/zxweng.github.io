@@ -122,46 +122,61 @@ Publications
 Experience
 --------------
 
-### VLM Red-Teaming (Talent Program), ByteDance
-*Talent Program (Jindouyun) Intern, advised by [Yang Bai](https://bymavis.github.io/) | Sep. 2025 - May 2026*
+<div class="research-timeline">
+  <article class="research-timeline-item">
+    <time class="research-timeline-date">Sep. 2025 - May 2026</time>
+    <div class="research-timeline-content">
+      <h3>VLM Red-Teaming</h3>
+      <p class="research-timeline-role">Talent Program (Jindouyun) Intern <span>·</span> ByteDance</p>
+      <p class="research-timeline-advisor">Advisor: <a href="https://bymavis.github.io/">Yang Bai</a></p>
+    </div>
+  </article>
 
-- Conducted red-teaming for Doubao and Volcano Ark.
-- Built a security assessment platform for the technology middle platform.
-- Addressed real-world security problems using production data and requirements.
+  <article class="research-timeline-item">
+    <time class="research-timeline-date">Jun. 2025 - Jan. 2026</time>
+    <div class="research-timeline-content">
+      <h3>LLM Steering</h3>
+      <p class="research-timeline-role">Research Assistant <span>·</span> UCLA</p>
+      <p class="research-timeline-advisor">Advisor: <a href="https://www.ytian.info/">Prof. Yuan Tian</a></p>
+    </div>
+  </article>
 
-### LLM Steering
-*Research Assistant, advised by [Prof. Yuan Tian](https://www.ytian.info/) (UCLA) | Jun. 2025 - Jan. 2026*
+  <article class="research-timeline-item">
+    <time class="research-timeline-date">Dec. 2024 - May 2025</time>
+    <div class="research-timeline-content">
+      <h3>LLM Jailbreak</h3>
+      <p class="research-timeline-role">Research Assistant <span>·</span> Penn State &amp; Purdue</p>
+      <p class="research-timeline-advisor">Advisors: <a href="https://jinyuan-jia.github.io/">Prof. Jinyuan Jia</a> and <a href="https://www.cs.purdue.edu/homes/xyzhang/">Prof. Xiangyu Zhang</a></p>
+    </div>
+  </article>
 
-- Developed an efficient method for constructing query-specific steering vectors.
-- Achieved state-of-the-art performance in jailbreak defense and hallucination reduction with little to no impact on general model performance.
-- Led the resulting ACL submission as first author.
+  <article class="research-timeline-item">
+    <time class="research-timeline-date">Feb. 2024 - May 2024</time>
+    <div class="research-timeline-content">
+      <h3>Time Series Forecasting</h3>
+      <p class="research-timeline-role">Research Assistant <span>·</span> HKUST</p>
+      <p class="research-timeline-advisor">Advisor: <a href="https://raymondhliu.github.io/">Prof. Hao Liu</a></p>
+    </div>
+  </article>
 
-### LLM Jailbreak
-*Research Assistant, advised by [Prof. Jinyuan Jia](https://jinyuan-jia.github.io/) (Penn State) and [Prof. Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) (Purdue) | Dec. 2024 - May 2025*
+  <article class="research-timeline-item">
+    <time class="research-timeline-date">Jul. 2023 - Oct. 2023</time>
+    <div class="research-timeline-content">
+      <h3>Understanding PPR-Based Graph Embeddings</h3>
+      <p class="research-timeline-role">Research Assistant <span>·</span> CUHK</p>
+      <p class="research-timeline-advisor">Advisor: <a href="https://www1.se.cuhk.edu.hk/~swang/">Prof. Sibo Wang</a></p>
+    </div>
+  </article>
 
-- Introduced a novel multi-turn jailbreak strategy motivated by the Foot-In-The-Door phenomenon.
-- Achieved a jailbreak success rate above 94% on mainstream LLMs.
-- Led the resulting EMNLP paper as first author.
-
-### Time Series Forecasting
-*Research Assistant, advised by [Prof. Hao Liu](https://raymondhliu.github.io/) (HKUST) | Feb. 2024 - May 2024*
-
-- Identified and formally defined three dependencies in time series.
-- Analyzed Mamba's strengths and adaptation challenges for time series forecasting.
-- Proposed a simplified Mamba with a theoretically grounded disentangled encoding strategy.
-
-### Understanding PPR-Based Graph Embeddings
-*Research Assistant, advised by [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/) (CUHK) | Jul. 2023 - Oct. 2023*
-
-- Studied random-walk-based graph embedding methods and developed a method to analyze information encoded by PPR embeddings.
-- Improved performance recovery by 10% for average path length and 5% for community connectivity over the baseline.
-
-### User Behavior Prediction with Graph Contrastive Learning
-*Research Assistant, advised by [Prof. Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) (Tsinghua University) | Oct. 2022 - Jun. 2023*
-
-- Developed a cluster-based historical attention mechanism for capturing multi-level periodicity in user behavior.
-- Improved performance by an average of 7% over state-of-the-art baselines while providing better interpretability.
-- Contributed to a paper published at UbiComp/ISWC 2023.
+  <article class="research-timeline-item">
+    <time class="research-timeline-date">Oct. 2022 - Jun. 2023</time>
+    <div class="research-timeline-content">
+      <h3>User Behavior Prediction with Graph Contrastive Learning</h3>
+      <p class="research-timeline-role">Research Assistant <span>·</span> Tsinghua University</p>
+      <p class="research-timeline-advisor">Advisor: <a href="https://www.sigs.tsinghua.edu.cn/jy/main.htm">Prof. Yong Jiang</a></p>
+    </div>
+  </article>
+</div>
 
 Awards
 --------
