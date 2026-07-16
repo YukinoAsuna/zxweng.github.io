@@ -3,319 +3,175 @@ permalink: /
 author_profile: true
 stylesheets:
   - /assets/css/home.css
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 <h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!</h1>
 
-Hi! I work on AI, survive on instant noodles, and submit papers 3 minutes before deadlines.
+I am **Zixuan Weng**, a Ph.D. student in Computer Science and Engineering at the **Georgia Institute of Technology**, advised by [Prof. Ling Liu](https://faculty.cc.gatech.edu/~lingliu/). I received my B.Eng. in Computer Science and Technology from **Beijing Jiaotong University** in 2024.
 
-Feel free to reach out if you are interested in collaboration or potential opportunities.
+My research interests include trustworthy AI, large language model safety and steering, multimodal model red-teaming, time series forecasting, and graph representation learning. Feel free to [contact me](mailto:zxweng0701@gmail.com) about research collaboration and academic opportunities.
 
 News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-
-<li><span class="news-date"><em>2026.10</em></span> 🚀🚀 Submitted a paper 3 minutes before the deadline.</li>
-
-<li><span class="news-date"><em>2025.12</em></span> 😅😅 Unexpectedly got fired.</li>
-<li><span class="news-date"><em>2026.09</em></span> 📉📉 My GPU resigned before I did.</li>
-<li><span class="news-date"><em>2026.08</em></span> ☕☕ Survived on coffee for 72 consecutive hours.</li>
-
-<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 I begin my internship at Weijia.</li>
-<li><span class="news-date"><em>2025.12</em></span> 😅😅 Unexpectedly got fired.</li>
-
-<li><span class="news-date"><em>2026.07</em></span> 🎉🎉 Promoted from intern to “experienced intern”.</li>
-<li><span class="news-date"><em>2026.06</em></span> 🤡🤡 Accidentally deleted the production database.</li>
-
-<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 I begin my internship at Haidilao.</li>
-<li><span class="news-date"><em>2025.12</em></span> 😅😅 Unexpectedly got fired.</li>
-
-<li><span class="news-date"><em>2024.10</em></span> 🎉🎉 I began my studies at MIT.</li>
+    <li><span class="news-date"><em>2026</em></span> FineSteer was accepted to ACL 2026 as an oral paper (Top 4%).</li>
+    <li><span class="news-date"><em>2025.11</em></span> Foot-In-The-Door was presented at EMNLP 2025 as an oral paper (Top 4%).</li>
+    <li><span class="news-date"><em>2025</em></span> Recognized as a KDD Outstanding Reviewer (Top 10%).</li>
+    <li><span class="news-date"><em>2025</em></span> SDE was published at KDD 2025, and JailbreakDiffBench was published at ICCV 2025.</li>
+    <li><span class="news-date"><em>2024</em></span> Our work on PPR-based embeddings was presented orally at WWW 2024 (Top 9%).</li>
   </ul>
+</div>
+
+Education
+--------------
+
+<div class="experience-container">
+  <div class="experience-card">
+      <img src="images/mit.png" alt="Georgia Institute of Technology" class="experience-logo">
+      <div class="experience-info">
+          <strong>Georgia Institute of Technology</strong><br>
+          <em>Aug. 2026 - Present</em><br>
+          Ph.D. in Computer Science and Engineering<br>
+          <span style="color:#888;">Advisor: <a href="https://faculty.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a></span>
+      </div>
+  </div>
+
+  <div class="experience-card">
+      <img src="images/weijia.png" alt="Beijing Jiaotong University" class="experience-logo">
+      <div class="experience-info">
+          <strong>Beijing Jiaotong University</strong><br>
+          <em>Sept. 2020 - Jun. 2024</em><br>
+          B.Eng. in Computer Science and Technology
+      </div>
+  </div>
 </div>
 
 Experience
 --------------
 
-<div class="experience-container">
+### VLM Red-Teaming (Talent Program), ByteDance
+*Talent Program (Jindouyun) Intern, advised by Bai Yang | Sep. 2025 - May 2026*
 
-  <div class="experience-card">
-      <img src="images/haidilao.png" alt="Haidilao logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Haidilao</strong><br>
-          <em>2026.05 - Present</em><br>
-          LLM Engineer Intern advised by <a href="https://wd7ang.github.io/"><em>Weidong Tang</em></a><br>
-          <span style="color:#888;">Main contribution: teaching hotpot robots to understand human emotions.</span>
-      </div>
-  </div>
+- Conducted red-teaming for Doubao and Volcano Ark.
+- Built a security assessment platform for the technology middle platform.
+- Addressed real-world security problems using production data and requirements.
 
-  <div class="experience-card">
-      <img src="images/weijia.png" alt="Weijia logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Weijia</strong><br>
-          <em>2026.01 - 2026.03</em><br>
-          Machine Learning Intern advised by <a href="https://selen-suyue.github.io/"><em>Yue Su</em></a><br>
-          <span style="color:#888;">Successfully reduced GPU happiness by 97%.</span>
-      </div>
-  </div>
+### LLM Steering
+*Research Assistant, advised by [Prof. Yuan Tian](https://www.ytian.info/) (UCLA) | Jun. 2025 - Jan. 2026*
 
-  <div class="experience-card">
-      <img src="images/mit.png" alt="MIT logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Massachusetts Institute of Technology</strong><br>
-          <em>2023.09 - Present</em><br>
-          Rank 5/99, B.E at <a href="https://ste.xidian.edu.cn/"><em>School of Telecommunication Engineering</em></a><br>
-          <span style="color:#888;">Research interests include large models, multimodal learning, and surviving deadlines.</span>
-      </div>
-  </div>
-</div>
+- Developed an efficient method for constructing query-specific steering vectors.
+- Achieved state-of-the-art performance in jailbreak defense and hallucination reduction with little to no impact on general model performance.
+- Led the resulting ACL submission as first author.
 
+### LLM Jailbreak
+*Research Assistant, advised by [Prof. Jinyuan Jia](https://jinyuan-jia.github.io/) (Penn State) and [Prof. Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) (Purdue) | Dec. 2024 - May 2025*
+
+- Introduced a novel multi-turn jailbreak strategy motivated by the Foot-In-The-Door phenomenon.
+- Achieved a jailbreak success rate above 94% on mainstream LLMs.
+- Led the resulting EMNLP paper as first author.
+
+### Time Series Forecasting
+*Research Assistant, advised by [Prof. Hao Liu](https://raymondhliu.github.io/) (HKUST) | Feb. 2024 - May 2024*
+
+- Identified and formally defined three dependencies in time series.
+- Analyzed Mamba's strengths and adaptation challenges for time series forecasting.
+- Proposed a simplified Mamba with a theoretically grounded disentangled encoding strategy.
+
+### Understanding PPR-Based Graph Embeddings
+*Research Assistant, advised by [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/) (CUHK) | Jul. 2023 - Oct. 2023*
+
+- Studied random-walk-based graph embedding methods and developed a method to analyze information encoded by PPR embeddings.
+- Improved performance recovery by 10% for average path length and 5% for community connectivity over the baseline.
+
+### User Behavior Prediction with Graph Contrastive Learning
+*Research Assistant, advised by [Prof. Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) (Tsinghua University) | Oct. 2022 - Jun. 2023*
+
+- Developed a cluster-based historical attention mechanism for capturing multi-level periodicity in user behavior.
+- Improved performance by an average of 7% over state-of-the-art baselines while providing better interpretability.
+- Contributed to a paper published at UbiComp/ISWC 2023.
 
 Publications
 --------------
 <button class="pub-button active" onclick="filterPublications(event, 'all')">Core Publications</button>
 <button class="pub-button" onclick="filterPublications(event, 'list')">Full Publications List</button>
 
-(* equal contribution · &dagger; corresponding author · &Dagger; project leader)
+(* equal contribution)
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
-<div class="publication-card" data-category="all"> 
+<div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/sleep.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>SleepFormer: Towards Fully Autonomous Deadline Extension via Large Language Models</strong><br>
-      <i style="font-size: 13px;">
-        <a href="https://wd7ang.github.io" target="_blank">
-          <strong>Weidong Tang</strong>
-        </a>,
-        <a href="https://selen-suyue.github.io/" target="_blank">
-          <strong>Yue Su&dagger;</strong>
-        </a>.
-      </i><br> 
-      We present SleepFormer, the first framework capable of automatically generating convincing excuses for missed deadlines, skipped meetings, and unfinished experiments.
-      <br> 
-      <b><i style="color:#83a1c7;">ACL 3026 Oral &nbsp;
-      </i></b> 
-      <a href=""><em>[arXiv]</em></a> 
-      <a href=""><em>[code]</em></a> 
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
+      <img src="images/sleep.png" alt="FineSteer" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
-  </div> 
+    <div>
+      <strong>FineSteer: A Unified Framework for Fine-grained Inference-time Steering in Large Language Models</strong><br>
+      <i style="font-size: 13px;"><strong>Zixuan Weng</strong>, Jinghuai Zhang, Kunlin Cai, Ying Li, Peiran Wang, Yuan Tian.</i><br>
+      A unified framework for constructing fine-grained, query-specific steering vectors for large language models.<br>
+      <b><i style="color:#83a1c7;">ACL 2026 Oral (Top 4%) &nbsp;</i></b>
+      <a href="https://arxiv.org/abs/2604.15488"><em>[paper]</em></a>
+    </div>
+  </div>
 </div>
 
-
-<div class="publication-card" data-category="all"> 
+<div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/gpu.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>Are GPUs Emotionally Stable? A Large-Scale Empirical Study Under 24/7 Training Stress</strong><br>
-      <i style="font-size: 13px;">
-        NVIDIA RTX 9090*,
-        <a href="https://selen-suyue.github.io/" target="_blank">
-          <strong>Yue Su*</strong>
-        </a>,
-        <a href="https://wd7ang.github.io" target="_blank">
-          <strong>Weidong Tang&dagger;</strong>
-        </a>.
-      </i><br> 
-      We conduct the first psychological evaluation of modern GPUs under extreme training conditions. Results reveal that 87% of devices exhibit symptoms of burnout after repeated “just one more epoch” requests.
-      <br> 
-      <b><i style="color:#83a1c7;">ICLR 3026 &nbsp;
-      </i></b> 
-      <a href=""><em>[arXiv]</em></a> 
-      <a href=""><em>[code]</em></a> 
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
+      <img src="images/gpu.png" alt="Foot-In-The-Door" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
-  </div> 
+    <div>
+      <strong>Foot-In-The-Door: A Multi-turn Jailbreak for LLMs</strong><br>
+      <i style="font-size: 13px;"><strong>Zixuan Weng</strong>, Xiaolong Jin, Jinyuan Jia, Xiangyu Zhang.</i><br>
+      A multi-turn jailbreak strategy motivated by the Foot-In-The-Door phenomenon.<br>
+      <b><i style="color:#83a1c7;">EMNLP 2025 Oral (Top 4%) &nbsp;</i></b>
+      <a href="https://aclanthology.org/2025.emnlp-main.100.pdf"><em>[paper]</em></a>
+    </div>
+  </div>
 </div>
 
-<div class="publication-card" data-category="all"> 
+<div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/noodle.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>Instant Noodles as a Scalable Training Infrastructure for Graduate Students</strong><br>
-      <i style="font-size: 13px;">
-        Noodles&Dagger;,
-        <a href="https://selen-suyue.github.io/" target="_blank">
-          <strong>Yue Su*</strong>
-        </a>,
-        <a href="https://wd7ang.github.io" target="_blank">
-          <strong>Weidong Tang&dagger;</strong>
-        </a>.
-      </i><br> 
-      We introduce Noodle-Scaling Law, showing that research productivity increases logarithmically with instant noodle consumption before collapsing catastrophically at 3 a.m.
-      <br> 
-      <b><i style="color:#83a1c7;">ICML 3026 &nbsp;
-      </i></b> 
-      <a href=""><em>[arXiv]</em></a> 
-      <a href=""><em>[code]</em></a> 
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
+      <img src="images/noodle.png" alt="SDE" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
-  </div> 
+    <div>
+      <strong>SDE: A Simplified and Disentangled Dependency Encoding Framework for State Space Models in Time Series Forecasting</strong><br>
+      <i style="font-size: 13px;"><strong>Zixuan Weng</strong>, Jindong Han, Wenzhao Jiang, Hao Liu.</i><br>
+      A simplified state space model with disentangled dependency encoding for time series forecasting.<br>
+      <b><i style="color:#83a1c7;">KDD 2025 &nbsp;</i></b>
+      <a href="https://arxiv.org/abs/2408.12068"><em>[paper]</em></a>
+    </div>
+  </div>
 </div>
-
 </div>
-
 
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
-  <ul class="full-publication-list">
-    <li>
-      <span class="pub-list-badge">ACL 3030</span>
-      <span class="pub-list-title">SleepFormer v5: Towards Fully Autonomous Deadline Extension via Large Language Models</span><br>
-      <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank">
-          <strong>Weidong Tang</strong>
-        </a>,
-        <a href="https://selen-suyue.github.io/" target="_blank">
-          <strong>Yue Su&dagger;</strong>
-        </a>.
-      </span>
-      <span class="pub-list-note">Oral.</span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
-    </li>
-    <li>
-      <span class="pub-list-badge">ACL 3029</span>
-      <span class="pub-list-title">SleepFormer v4: Towards Fully Autonomous Deadline Extension via Large Language Models</span><br>
-      <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank">
-          <strong>Weidong Tang</strong>
-        </a>,
-        <a href="https://selen-suyue.github.io/" target="_blank">
-          <strong>Yue Su&dagger;</strong>
-        </a>.
-      </span>
-      <span class="pub-list-note">Oral.</span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
-    </li>
-    <li>
-      <span class="pub-list-badge">ACL 3028</span>
-      <span class="pub-list-title">SleepFormer v3: Towards Fully Autonomous Deadline Extension via Large Language Models</span><br>
-      <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank">
-          <strong>Weidong Tang</strong>
-        </a>,
-        <a href="https://selen-suyue.github.io/" target="_blank">
-          <strong>Yue Su&dagger;</strong>
-        </a>.
-      </span>
-      <span class="pub-list-note">Oral.</span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
-    </li>
-    <li>
-      <span class="pub-list-badge">ACL 3027</span>
-      <span class="pub-list-title">SleepFormer v2: Towards Fully Autonomous Deadline Extension via Large Language Models</span><br>
-      <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank">
-          <strong>Weidong Tang</strong>
-        </a>,
-        <a href="https://selen-suyue.github.io/" target="_blank">
-          <strong>Yue Su&dagger;</strong>
-        </a>.
-      </span>
-      <span class="pub-list-note">Oral.</span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
-    </li>
-    <li>
-      <span class="pub-list-badge">ACL 3026</span>
-      <span class="pub-list-title">SleepFormer: Towards Fully Autonomous Deadline Extension via Large Language Models</span><br>
-      <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank">
-          <strong>Weidong Tang</strong>
-        </a>,
-        <a href="https://selen-suyue.github.io/" target="_blank">
-          <strong>Yue Su&dagger;</strong>
-        </a>.
-      </span>
-      <span class="pub-list-note">Oral.</span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
-    </li>
-    <li>
-      <span class="pub-list-badge">ICLR 3026</span>
-      <span class="pub-list-title">Are GPUs Emotionally Stable? A Large-Scale Empirical Study Under 24/7 Training Stress</span><br>
-      <span class="pub-list-authors">
-        NVIDIA RTX 9090*,
-        <a href="https://selen-suyue.github.io/" target="_blank">
-          <strong>Yue Su*</strong>
-        </a>,
-        <a href="https://wd7ang.github.io" target="_blank">
-          <strong>Weidong Tang&dagger;</strong>
-        </a>.
-      </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
-    </li>
-    <li>
-      <span class="pub-list-badge">ICLR 3026</span>
-      <span class="pub-list-title">Instant Noodles as a Scalable Training Infrastructure for Graduate Students</span><br>
-      <span class="pub-list-authors">
-        Noodles&Dagger;,
-        <a href="https://selen-suyue.github.io/" target="_blank">
-          <strong>Yue Su*</strong>
-        </a>,
-        <a href="https://wd7ang.github.io" target="_blank">
-          <strong>Weidong Tang&dagger;</strong>
-        </a>.
-      </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
-    </li>
-  </ul>
+  <ol class="full-publication-list">
+    <li><span class="pub-list-badge">ACL 2026</span> <span class="pub-list-title">FineSteer: A Unified Framework for Fine-grained Inference-time Steering in Large Language Models.</span><br><span class="pub-list-authors"><strong>Zixuan Weng</strong>, Jinghuai Zhang, Kunlin Cai, Ying Li, Peiran Wang, Yuan Tian.</span> <span class="pub-list-note">Oral, Top 4%.</span> <span class="pub-list-links"><a href="https://arxiv.org/abs/2604.15488">[paper]</a></span></li>
+    <li><span class="pub-list-badge">EMNLP 2025</span> <span class="pub-list-title">Foot-In-The-Door: A Multi-turn Jailbreak for LLMs.</span><br><span class="pub-list-authors"><strong>Zixuan Weng</strong>, Xiaolong Jin, Jinyuan Jia, Xiangyu Zhang.</span> <span class="pub-list-note">Oral, Top 4%.</span> <span class="pub-list-links"><a href="https://aclanthology.org/2025.emnlp-main.100.pdf">[paper]</a></span></li>
+    <li><span class="pub-list-badge">KDD 2025</span> <span class="pub-list-title">SDE: A Simplified and Disentangled Dependency Encoding Framework for State Space Models in Time Series Forecasting.</span><br><span class="pub-list-authors"><strong>Zixuan Weng</strong>, Jindong Han, Wenzhao Jiang, Hao Liu.</span> <span class="pub-list-links"><a href="https://arxiv.org/abs/2408.12068">[paper]</a></span></li>
+    <li><span class="pub-list-badge">ICCV 2025</span> <span class="pub-list-title">JailbreakDiffBench: A Comprehensive Benchmark for Jailbreaking Diffusion Models.</span><br><span class="pub-list-authors">Xiaolong Jin, <strong>Zixuan Weng</strong>, Hanxi Guo, Siyuan Cheng, Guangyu Shen, Chenlong Yin, Xiangyu Zhang.</span> <span class="pub-list-links"><a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_JailbreakDiffBench_A_Comprehensive_Benchmark_for_Jailbreaking_Diffusion_Models_ICCV_2025_paper.pdf">[paper]</a></span></li>
+    <li><span class="pub-list-badge">WWW 2024</span> <span class="pub-list-title">Towards Deeper Understanding of PPR-based Embedding Approaches: A Topological Perspective.</span><br><span class="pub-list-authors">Xingyi Zhang, <strong>Zixuan Weng</strong>, Sibo Wang.</span> <span class="pub-list-note">Oral, Top 9%.</span> <span class="pub-list-links"><a href="https://dl.acm.org/doi/abs/10.1145/3589334.3645663">[paper]</a></span></li>
+    <li><span class="pub-list-badge">UbiComp 2023</span> <span class="pub-list-title">I Know Your Intent: Graph-Enhanced Intent-Aware User Device Interaction Prediction via Contrastive Learning.</span><br><span class="pub-list-authors">Jingyu Xiao, Qingsong Zou, Qing Li, Dan Zhao, Kang Li, <strong>Zixuan Weng</strong>, Ruoyu Li, Yong Jiang.</span> <span class="pub-list-links"><a href="https://dl.acm.org/doi/10.1145/3610906">[paper]</a></span></li>
+    <li><span class="pub-list-badge">Preprint</span> <span class="pub-list-title">DAMBench: A Multi-Modal Benchmark for Deep Learning-based Atmospheric Data Assimilation.</span><br><span class="pub-list-authors">Hao Wang*, <strong>Zixuan Weng*</strong>, Hao Liu.</span> <span class="pub-list-note">In submission.</span></li>
+  </ol>
 </div>
 
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
 
-
-Projects
---------
-<div class="project-card" data-category="project"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <img src="images/2.png" alt="ManiUniCon" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
-    </div>
-    <div> 
-      <strong>WowPage</strong><br>
-      <i style="font-size: 13px;">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>,
-        <a href="https://selen-suyue.github.io/" target="_blank"><strong>Yue Su</strong></a>.
-      </i><br>
-      In collaboration with Yue Su, I refined and improved his original homepage template. A clean standalone template version is coming soon.
-      <br> 
-      <b><i style="color:#83a1c7;">Project &nbsp;</i></b> 
-      <a href=""><em>[code]</em></a> 
-    </div>
-  </div> 
-</div>
-
-
 Awards
 --------
-- *3026.01*, Successfully survived 17 consecutive paper deadlines without touching grass.
-- *3025.09*, Best Excuse Generation Award, SleepFormer Research Group.
-- *3025.06*, Outstanding Contributor to Instant Noodle Consumption Efficiency.
-- *3024.12*, GPU Emotional Damage Scholarship (Full Funding).
-- *3024.08*, Ranked Top 0.1% Worldwide in “I’ll Fix It Tomorrow”.
+- **2025**, KDD Outstanding Reviewer (Top 10%).
+- **2023**, National College Students' Innovative Entrepreneurial Training Plan Program (Top 5%).
+- **2023**, National Scholarship (Top 1%).
+- **2023**, First Class Scholarship for Academic Performance (Top 2%).
+- **2023**, Second Class Scholarship for Social Work Performance (Top 5%).
 
-
-
-Services
+Academic Services
 --------
-- *3026.06 – Present*, Chief Coffee Consumption Officer, Midnight Research Lab.
-- *3026.01 – Present*, Full-time Debugger of Problems Created by Myself.
-- Reviewer for Journal of Unfinished Projects.
-- Area Chair for Conference on Last-Minute Submissions (CLMS).
-- Volunteer Therapist for Burned-out GPUs.
-
-
-
-Talks
---------
-- *3026.07*, “How to Finish a Paper 3 Minutes Before Deadline.”
-- *3026.05*, “Large Language Models and Large Amounts of Caffeine.”
-- *3025.11*, “On the Emotional Stability of GPUs Under Extreme Stress.”
-- *3025.08*, “Instant Noodles as Scalable Research Infrastructure.”
-- *3025.03*, “Sleep is Temporary, Camera-Ready is Forever.”
+- **Session Chair:** KDD 2025.
+- **Reviewer:** NeurIPS 2026; CVPR 2026; ARR May 2025; WWW 2026; KDD 2024, 2025, and 2026.
+- **Volunteer:** KDD 2025; EMNLP 2025.

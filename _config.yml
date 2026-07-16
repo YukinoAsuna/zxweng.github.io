@@ -1,21 +1,21 @@
 locale                   : "en-US"
-title                    : "WowPage"
+title                    : "Zixuan Weng"
 title_separator          : "-"
-name                     : "Your Name"
-description              : &description "A clean academic homepage template."
+name                     : "Zixuan Weng"
+description              : &description "Zixuan Weng's academic homepage - research in trustworthy AI, large language models, and machine learning."
 url                      : "https://yukinoasuna.github.io"
 baseurl                  : "/zxweng.github.io"
 repository               : "YukinoAsuna/zxweng.github.io"
 
 author:
   avatar           : "1.png"
-  name             : "Your Name"
+  name             : "Zixuan Weng"
   pronouns         :
-  bio              : "Student and researcher."
-  location         : "City, Country"
-  employer         : "Institution or Company"
+  bio              : "Ph.D. student working on trustworthy AI and machine learning."
+  location         : "Atlanta, GA"
+  employer         : "Georgia Institute of Technology"
   uri              :
-  email            : "name@example.com"
+  email            : "zxweng0701@gmail.com"
 
   arxiv            :
   googlescholar    :
@@ -28,7 +28,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           :
+  github           : "YukinoAsuna"
   kaggle           :
   stackoverflow    :
 

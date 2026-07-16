@@ -4,26 +4,23 @@ main:
   - title: "News"
     url: "/#news"
 
+  - title: "Education"
+    url: "/#education"
+
   - title: "Experience"
     url: "/#experience"
 
-  - title: "Pub"
+  - title: "Publications"
     url: "/#publications"
-
-  - title: "Project"
-    url: "/#projects"
 
   - title: "Awards"
     url: "/#awards"
 
-  - title: "Services"
-    url: "/#services"
-    
-  - title: "Talks"
-    url: "/#talks"
+  - title: "Academic Services"
+    url: "/#academic-services"
     
   - title: "CV-En"
-    url: "/files/weidongtang_resume.pdf"
+    url: "/files/Zixuan_Weng_CV.pdf"
 
   # - title: "CV-Cn"
   #   url: "/files/chinese_resume.pdf"
