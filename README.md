@@ -131,7 +131,7 @@ main:
     url: "/#experience"
   - title: "Pub"
     url: "/#publications"
-  - title: "CV-En"
+  - title: "CV"
     url: "/files/weidongtang_resume.pdf"
 ```
 

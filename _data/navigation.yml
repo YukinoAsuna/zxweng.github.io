@@ -19,7 +19,7 @@ main:
   - title: "Academic Services"
     url: "/#academic-services"
     
-  - title: "CV-En"
+  - title: "CV"
     url: "/files/Zixuan_Weng_CV.pdf"
 
   # - title: "CV-Cn"
