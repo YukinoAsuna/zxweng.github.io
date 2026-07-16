@@ -11,7 +11,7 @@ redirect_from:
 
 I am **Zixuan Weng**, a Ph.D. student in Computer Science and Engineering at the **Georgia Institute of Technology**, advised by [Prof. Ling Liu](https://faculty.cc.gatech.edu/~lingliu/). I received my B.Eng. in Computer Science and Technology from **Beijing Jiaotong University** in 2024.
 
-My research interests include trustworthy AI, large language model safety and steering, multimodal model red-teaming, time series forecasting, and graph representation learning. Feel free to [contact me](mailto:zxweng0701@gmail.com) about research collaboration and academic opportunities.
+My research interests include large language model safety, agent safety, and agentic reinforcement learning. Feel free to [contact me](mailto:zxweng0701@gmail.com) about research collaboration and academic opportunities.
 
 News
 ---------------
