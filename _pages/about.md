@@ -21,7 +21,7 @@ News
     <li><span class="news-date"><em>2025.08</em></span> Foot-In-The-Door was accepted to EMNLP 2025 as an oral paper (Top 4%).</li>
     <li><span class="news-date"><em>2025.08</em></span> Recognized as a KDD Outstanding Reviewer (Top 10%).</li>
     <li><span class="news-date"><em>2025.06</em></span> JailbreakDiffBench was accepted to ICCV 2025.</li>
-    <li><span class="news-date"><em>2024.11</em></span> SDE was accepted to KDD 2025.</li>
+    <li><span class="news-date"><em>2025.05</em></span> SDE was accepted to KDD 2025.</li>
     <li><span class="news-date"><em>2024.02</em></span> Our work on PPR-based embeddings was accepted to WWW 2024 as an oral paper (Top 9%).</li>
   </ul>
 </div>
