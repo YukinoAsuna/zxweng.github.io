@@ -136,7 +136,7 @@ Experience
     <time class="research-timeline-date">Jun. 2025 - Jan. 2026</time>
     <div class="research-timeline-content">
       <h3>LLM Steering</h3>
-      <p class="research-timeline-role">Research Assistant <span>·</span> UCLA</p>
+      <p class="research-timeline-role">Research Assistant <span>·</span> University of California, Los Angeles</p>
       <p class="research-timeline-advisor">Advisor: <a href="https://www.ytian.info/">Prof. Yuan Tian</a></p>
     </div>
   </article>
@@ -145,7 +145,7 @@ Experience
     <time class="research-timeline-date">Dec. 2024 - May 2025</time>
     <div class="research-timeline-content">
       <h3>LLM Jailbreak</h3>
-      <p class="research-timeline-role">Research Assistant <span>·</span> Penn State &amp; Purdue</p>
+      <p class="research-timeline-role">Research Assistant <span>·</span> Penn State &amp; Purdue University</p>
       <p class="research-timeline-advisor">Advisors: <a href="https://jinyuan-jia.github.io/">Prof. Jinyuan Jia</a> and <a href="https://www.cs.purdue.edu/homes/xyzhang/">Prof. Xiangyu Zhang</a></p>
     </div>
   </article>
@@ -154,7 +154,7 @@ Experience
     <time class="research-timeline-date">Feb. 2024 - May 2024</time>
     <div class="research-timeline-content">
       <h3>Time Series Forecasting</h3>
-      <p class="research-timeline-role">Research Assistant <span>·</span> HKUST</p>
+      <p class="research-timeline-role">Research Assistant <span>·</span> Hong Kong University of Science and Technology</p>
       <p class="research-timeline-advisor">Advisor: <a href="https://raymondhliu.github.io/">Prof. Hao Liu</a></p>
     </div>
   </article>
@@ -163,7 +163,7 @@ Experience
     <time class="research-timeline-date">Jul. 2023 - Oct. 2023</time>
     <div class="research-timeline-content">
       <h3>Understanding PPR-Based Graph Embeddings</h3>
-      <p class="research-timeline-role">Research Assistant <span>·</span> CUHK</p>
+      <p class="research-timeline-role">Research Assistant <span>·</span> Chinese University of Hong Kong</p>
       <p class="research-timeline-advisor">Advisor: <a href="https://www1.se.cuhk.edu.hk/~swang/">Prof. Sibo Wang</a></p>
     </div>
   </article>
