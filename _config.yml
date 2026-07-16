@@ -3,9 +3,9 @@ title                    : "WowPage"
 title_separator          : "-"
 name                     : "Your Name"
 description              : &description "A clean academic homepage template."
-url                      : ""
-baseurl                  : ""
-repository               : ""
+url                      : "https://yukinoasuna.github.io"
+baseurl                  : "/zxweng.github.io"
+repository               : "YukinoAsuna/zxweng.github.io"
 
 author:
   avatar           : "1.png"
