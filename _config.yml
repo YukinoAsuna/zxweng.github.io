@@ -4,8 +4,8 @@ title_separator          : "-"
 name                     : "Zixuan Weng"
 description              : &description "Zixuan Weng's academic homepage - research in trustworthy AI, large language models, and machine learning."
 url                      : "https://yukinoasuna.github.io"
-baseurl                  : "/zxweng.github.io"
-repository               : "YukinoAsuna/zxweng.github.io"
+baseurl                  : ""
+repository               : "YukinoAsuna/YukinoAsuna.github.io"
 
 author:
   avatar           : "1.png"
